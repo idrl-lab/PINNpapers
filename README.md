@@ -26,6 +26,7 @@ Corrections and suggestions are welcomed.
 1. **Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations**, *M. Raissi, P. Perdikaris, G. E. Karniadakis*, Journal of Computational Physics, 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125)]
 2. **The deep Ritz method: a deep learning-based numerical algorithm for solving variational problems**, *E Weinan, Bing Yu*, Communications in Mathematics and Statistics, 2018. [[paper](https://link.springer.com/article/10.1007/s40304-018-0127-z)]
 3. **DGM: A deep learning algorithm for solving partial differential equations**, *Justin Sirignano, Konstantinos Spiliopoulos*, Journal of Computational Physics, 2018. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999118305527)]
+4. **SPINN: Sparse, Physics-based, and partially Interpretable Neural Networks for PDEs**, *Amuthan A. Ramabathiran, Ramach, Prabhu ran*, Journal of Computational Physics, 2021. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999121004952)][[code](https://github.com/nn4pde/SPINN)]
 
 ## Papers on Parallel PINN
 1. **Parallel Physics-Informed Neural Networks via Domain Decomposition**, *Khemraj Shukla, Ameya D. Jagtap, George Em Karniadakis*, arXiv:2104.10013 [cs], 2021. [[paper](https://arxiv.org/pdf/2104.10013)]
@@ -59,3 +60,8 @@ Corrections and suggestions are welcomed.
 4. **NSFnets (Navier-Stokes flow nets): Physics-informed neural networks for the incompressible Navier-Stokes equations**, *Xiaowei Jin, Shengze Cai, Hui Li, George Em Karniadakis*, Journal of Computational Physics, 2021. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999120307257)]
 5. **A High-Efficient Hybrid Physics-Informed Neural Networks Based on Convolutional Neural Network**, *Zhiwei Fang*, IEEE Transactions on Neural Networks and Learning Systems, 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9403414)]
 6. **A Study on a Feedforward Neural Network to Solve Partial Differential Equations in Hyperbolic-Transport Problems**, *Eduardo Abreu, Joao B. Florindo*, ICCS, 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-77964-1_31)]
+
+## Papers on PINN Analysis
+1. **Estimates on the generalization error of physics-informed neural networks for approximating a class of inverse problems for PDEs**, *Siddhartha Mishra, Roberto Molinaro*, IMA Journal of Numerical Analysis, 2021. [[paper](https://academic.oup.com/imajna/advance-article-abstract/doi/10.1093/imanum/drab032/6297946)]
+2. **Error analysis for physics informed neural networks (PINNs) approximating Kolmogorov PDEs**, *Tim De Ryck, Siddhartha Mishra*, arXiv:2106.14473 [cs, math], 2021. [[paper](https://arxiv.org/pdf/2106.14473.pdf)]
+3. **Error Analysis of Deep Ritz Methods for Elliptic Equations**, *Yuling Jiao, Yanming Lai, Yisu Luo, Yang Wang, Yunfei Yang*, arXiv:2107.14478 [cs, math], 2021. [[paper](https://arxiv.org/pdf/2107.14478.pdf)]
