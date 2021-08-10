@@ -8,6 +8,8 @@ Physics-Informed Neural Network (PINN) has achieved great success in scientific 
 
 Corrections and suggestions are welcomed.
 
+A [script](./ref_convert.py) for converting bibtex to the markdown used in this repo is also provided for your convenience.
+
 ## Software
 
 
