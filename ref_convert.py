@@ -31,6 +31,15 @@ def handle_author(author: str):
     return author
 
 
+def handle_url(url: str):
+    try:
+        arxiv_identifier = re.compile('http://arxiv.org/abs/([\d\.]+)').findall(url)[0]
+        url = f'http://arxiv.org/pdf/{arxiv_identifier}.pdf'
+    except:
+        pass
+    return url
+
+
 def bib_parser(bibref: str):
     parser = BibTexParser(common_strings=True)
     parser.ignore_nonstandard_types = False
@@ -51,7 +60,12 @@ def bib_parser(bibref: str):
             year = entry['year']
         except:
             year = '**UNKNOWN_YEAR**'
-        lines.append(f"1. **{title}**, *{author}*, {journal}, {year}. [[paper]()][[code]()]")
+        try:
+            url = entry['url']
+            url = handle_url(url)
+        except:
+            url = ''
+        lines.append(f"1. **{title}**, *{author}*, {journal}, {year}. [[paper]({url})][[code]()]")
     target = '\n'.join(lines)
     return target
 
