@@ -30,6 +30,7 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 3. **DGM: A deep learning algorithm for solving partial differential equations**, *Justin Sirignano, Konstantinos Spiliopoulos*, Journal of Computational Physics, 2018. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999118305527)]
 4. **SPINN: Sparse, Physics-based, and partially Interpretable Neural Networks for PDEs**, *Amuthan A. Ramabathiran, Ramach, Prabhu ran*, Journal of Computational Physics, 2021. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999121004952)][[code](https://github.com/nn4pde/SPINN)]
 5. **Deep neural network methods for solving forward and inverse problems of time fractional diffusion equations with conformable derivative**, *Yinlin Ye, Yajing Li, Hongtao Fan, Xinyi Liu, Hongbing Zhang*, arXiv:2108.07490 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2108.07490.pdf)]
+1. **NH-PINN: Neural homogenization based physics-informed neural network for multiscale problems**, *Wing Tat Leung, Guang Lin, Zecheng Zhang*, arXiv:2108.12942 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2108.12942.pdf)][[code]()]
 
 ## Papers on Parallel PINN
 1. **Parallel Physics-Informed Neural Networks via Domain Decomposition**, *Khemraj Shukla, Ameya D. Jagtap, George Em Karniadakis*, arXiv:2104.10013 [cs], 2021. [[paper](https://arxiv.org/pdf/2104.10013)]
@@ -55,6 +56,9 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 3. **B-PINNs: Bayesian physics-informed neural networks for forward and inverse PDE problems with noisy data**, *Liu Yang, Xuhui Meng, George Em Karniadakis*, Journal of Computational Physics, 2021. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999120306872)]
 4. **PID-GAN: A GAN Framework based on a Physics-informed Discriminator for Uncertainty Quantification with Physics**, *Arka Daw, M. Maruf, Anuj Karpatne*, arXiv:2106.02993 [cs, stat], 2021. [[paper](https://arxiv.org/pdf/2106.02993)]
 5. **Quantifying Uncertainty in Physics-Informed Variational Autoencoders for Anomaly Detection**, *Marcus J. Neuer*, ESTEP, 2020. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-69367-1_3)]
+1. **A Physics-Data-Driven Bayesian Method for Heat Conduction Problems**, *Xinchao Jiang, Hu Wang, Yu li*, arXiv:2109.00996 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2109.00996.pdf)][[code]()]
+1. **Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks**, *Yihang Gao, Michael K. Ng*, arXiv:2108.13054 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2108.13054.pdf)][[code]()]
+
 
 ## Papers on Applications
 1. **Physics-informed neural networks for high-speed flows**, *Zhiping Mao, Ameya D. Jagtap, George Em Karniadakis*, Computer Methods in Applied Mechanics and Engineering, 2020. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782519306814)]
@@ -67,6 +71,7 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 8. **Prediction of porous media fluid flow using physics informed neural networks**, *Muhammad M. Almajid, Moataz O. Abu-Alsaud*, Journal of Petroleum Science and Engineering, 2021. [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0920410521008597)]
 9. **Investigating a New Approach to Quasinormal Modes: Physics-Informed Neural Networks**, *Anele M. Ncube, Gerhard E. Harmsen, Alan S. Cornell*, arXiv:2108.05867 [gr-qc], 2021. [[paper](http://arxiv.org/pdf/2108.05867.pdf)]
 10. **Towards neural Earth system modelling by integrating artificial intelligence in Earth system science**, *Christopher Irrgang, Niklas Boers, Maike Sonnewald, Elizabeth A. Barnes, Christopher Kadow, Joanna Staneva, Jan Saynisch-Wagner*, Nature Machine Intelligence, 2021. [[paper](https://www.nature.com/articles/s42256-021-00374-3)]
+11. **Physics-informed Neural Network for Nonlinear Dynamics in Fiber Optics**, *Xiaotian Jiang, Danshi Wang, Qirui Fan, Min Zhang, Chao Lu, Alan Pak Tao Lau*, arXiv:2109.00526 [physics], 2021. [[paper](http://arxiv.org/pdf/2109.00526.pdf)][[code]()]
 
 ## Papers on PINN Analysis
 1. **Estimates on the generalization error of physics-informed neural networks for approximating a class of inverse problems for PDEs**, *Siddhartha Mishra, Roberto Molinaro*, IMA Journal of Numerical Analysis, 2021. [[paper](https://academic.oup.com/imajna/advance-article-abstract/doi/10.1093/imanum/drab032/6297946)]
