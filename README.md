@@ -80,6 +80,9 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 11. **Physics-informed Neural Network for Nonlinear Dynamics in Fiber Optics**, *Xiaotian Jiang, Danshi Wang, Qirui Fan, Min Zhang, Chao Lu, Alan Pak Tao Lau*, arXiv:2109.00526 [physics], 2021. [[paper](http://arxiv.org/pdf/2109.00526.pdf)]
 
 ## Papers on PINN Analysis
+1. **Estimates on the generalization error of physics-informed neural networks for approximating a class of inverse problems for PDEs**, *Siddhartha Mishra, Roberto Molinaro*, IMA Journal of Numerical Analysis, 2021. [[paper](https://academic.oup.com/imajna/advance-article-abstract/doi/10.1093/imanum/drab032/6297946)]
+2. **Error analysis for physics informed neural networks (PINNs) approximating Kolmogorov PDEs**, *Tim De Ryck, Siddhartha Mishra*, arXiv:2106.14473 [cs, math], 2021. [[paper](https://arxiv.org/pdf/2106.14473.pdf)]
+3. **Error Analysis of Deep Ritz Methods for Elliptic Equations**, *Yuling Jiao, Yanming Lai, Yisu Luo, Yang Wang, Yunfei Yang*, arXiv:2107.14478 [cs, math], 2021. [[paper](https://arxiv.org/pdf/2107.14478.pdf)]
 1. **Learning Partial Differential Equations in Reproducing Kernel Hilbert Spaces**, *George Stepaniants*, arXiv:2108.11580 [cs, math, stat], 2021. [[paper](http://arxiv.org/pdf/2108.11580.pdf)]
 1. **Simultaneous Neural Network Approximations in Sobolev Spaces**, *Sean Hon, Haizhao Yang*, arXiv:2109.00161 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2109.00161.pdf)]
 1. **Characterizing possible failure modes in physics-informed neural networks**, *Aditi S. Krishnapriyan, Amir Gholami, Sh Zhe, ian, Robert M. Kirby, Michael W. Mahoney*, arXiv:2109.01050 [physics], 2021. [[paper](http://arxiv.org/pdf/2109.01050.pdf)]
