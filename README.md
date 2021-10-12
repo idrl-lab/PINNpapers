@@ -63,8 +63,7 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 1. **A Physics-Data-Driven Bayesian Method for Heat Conduction Problems**, *Xinchao Jiang, Hu Wang, Yu li*, arXiv:2109.00996 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2109.00996.pdf)]
 1. **Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks**, *Yihang Gao, Michael K. Ng*, arXiv:2108.13054 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2108.13054.pdf)]
 1. **Flow Field Tomography with Uncertainty Quantification using a Bayesian Physics-Informed Neural Network**, *Joseph P. Molnar, Samuel J. Grauer*, arXiv:2108.09247 [physics], 2021. [[paper](http://arxiv.org/pdf/2108.09247.pdf)]
-1. **Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks**, *Yihang Gao, Michael K. Ng*, arXiv:2108.13054 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2108.13054.pdf)]
-1. **Stochastic Physics-Informed Neural Networks (SPINN): A Moment-Matching Framework for Learning Hidden Physics within Stochastic Differential Equations**, *Jared O'Leary, Joel A. Paulson, Ali Mesbah*, arXiv:2109.01621 [cs], 2021. [[paper](http://arxiv.org/pdf/2109.01621.pdf)]
+2. **Stochastic Physics-Informed Neural Networks (SPINN): A Moment-Matching Framework for Learning Hidden Physics within Stochastic Differential Equations**, *Jared O'Leary, Joel A. Paulson, Ali Mesbah*, arXiv:2109.01621 [cs], 2021. [[paper](http://arxiv.org/pdf/2109.01621.pdf)]
 
 
 ## Papers on Applications
