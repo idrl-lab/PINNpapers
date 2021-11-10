@@ -2,6 +2,17 @@
 
 Contributed by [IDRL lab](https://github.com/idrl-lab).
 
+- [PINNpapers](#pinnpapers)
+  - [Introduction](#introduction)
+  - [Software](#software)
+  - [Papers on PINN Models](#papers-on-pinn-models)
+  - [Papers on Parallel PINN](#papers-on-parallel-pinn)
+  - [Papers on PINN Accerleration](#papers-on-pinn-accerleration)
+  - [Papers on Model Transfer & Meta-Learning](#papers-on-model-transfer--meta-learning)
+  - [Papers on Probabilistic PINNs and Uncertainty Quantification](#papers-on-probabilistic-pinns-and-uncertainty-quantification)
+  - [Papers on Applications](#papers-on-applications)
+  - [Papers on PINN Analysis](#papers-on-pinn-analysis)
+
 ## Introduction
 
 Physics-Informed Neural Network (PINN) has achieved great success in scientific computing since 2017. In this repo, we list some representative work on PINNs. Feel free to distribute or use it!
@@ -89,3 +100,4 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 1. **Understanding and Mitigating Gradient Flow Pathologies in Physics-Informed Neural Networks**, *Sifan Wang, Yujun Teng, Paris Perdikaris*, SIAM Journal on Scientific Computing, 2021. [[paper](https://epubs.siam.org/doi/10.1137/20M1318043)]
 1. **Variational Physics Informed Neural Networks: the role of quadratures and test functions**, *Stefano Berrone, Claudio Canuto, Moreno Pintore*, arXiv:2109.02035 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2109.02035.pdf)]
 1. **Convergence Analysis for the PINNs**, *Yuling Jiao, Yanming Lai, Dingwei Li, Xiliang Lu, Yang Wang, Jerry Zhijian Yang*, arXiv:2109.01780 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2109.01780.pdf)]
+1. **Convergence rate of DeepONets for learning operators arising from advection-diffusion equations**, *Beichuan Deng, Yeonjong Shin, Lu Lu, Zhongqiang Zhang, George Em Karniadakis*, arXiv:2102.10621 [math], 2021. [[paper](https://arxiv.org/abs/2102.10621)]
