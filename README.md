@@ -34,12 +34,14 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 1. **Physics-Augmented Learning: A New Paradigm Beyond Physics-Informed Learning**, *Ziming Liu, Yunyue Chen, Yuanqi Du, Max Tegmark*, arXiv:2109.13901 [physics], 2021. [[paper](http://arxiv.org/pdf/2109.13901.pdf)]
 2. **Theory-guided hard constraint projection (HCP): A knowledge-based data-driven scientific machine learning method**, *Yuntian Chen, Dou Huang, Dongxiao Zhang, Junsheng Zeng, Nanzhe Wang, Haoran Zhang, Jinyue Yan*, Journal of Computational Physics, 2021. [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0021999121005192)]
 3. **Learning in Sinusoidal Spaces with Physics-Informed Neural Networks**, *Jian Cheng Wong, Chinchun Ooi, Abhishek Gupta, Yew-Soon Ong*, arXiv:2109.09338 [physics], 2021. [[paper](http://arxiv.org/pdf/2109.09338.pdf)]
+4. **HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks**, *Filipe de Avila Belbute-Peres, Yi-fan Chen, Fei Sha*, **NIPS**, 2021. [[paper](https://openreview.net/forum?id=LxUuRDUhRjM)]
 
 ## Papers on Parallel PINN
 1. **Parallel Physics-Informed Neural Networks via Domain Decomposition**, *Khemraj Shukla, Ameya D. Jagtap, George Em Karniadakis*, arXiv:2104.10013 [cs], 2021. [[paper](https://arxiv.org/pdf/2104.10013)]
 2. **Finite Basis Physics-Informed Neural Networks (FBPINNs): a scalable domain decomposition approach for solving differential equations**, *Ben Moseley, Andrew Markham, Tarje Nissen-Meyer*, arXiv:2107.07871 [physics], 2021. [[paper](https://arxiv.org/pdf/2107.07871)]
 3. **PPINN: Parareal physics-informed neural network for time-dependent PDEs**, *Xuhui Meng, Zhen Li, Dongkun Zhang, George Em Karniadakis*, Computer Methods in Applied Mechanics and Engineering, 2020. [[paper](https://arxiv.org/pdf/2104.10013)]
 4. **When Do Extended Physics-Informed Neural Networks (XPINNs) Improve Generalization?**, *Zheyuan Hu, Ameya D. Jagtap, George Em Karniadakis, Kenji Kawaguchi*, arXiv:2109.09444 [cs, math, stat], 2021. [[paper](http://arxiv.org/pdf/2109.09444.pdf)]
+5. **Scaling physics-informed neural networks to large domains by using domain decomposition**, *Ben Moseley, Andrew Markham, Tarje Nissen-Meyer*, *NIPS*, 2021. [[paper](https://openreview.net/forum?id=o1WiAZiw_CE)]
    
 ## Papers on PINN Accerleration
 1. **Self-adaptive loss balanced Physics-informed neural networks for the incompressible Navier-Stokes equations**, *Zixue Xiang, Wei Peng, Xiaohu Zheng, Xiaoyu Zhao, Wen Yao*, arXiv:2104.06217 [physics], 2021. [[paper](https://arxiv.org/pdf/2104.06217)]
@@ -48,7 +50,6 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 4. **DPM: A Novel Training Method for Physics-Informed Neural Networks in Extrapolation**, *Jungeun Kim, Kookjin Lee, Dongeun Lee, Sheo Yon Jin, Noseong Park*, AAAI, 2021. [[paper](https://www.aaai.org/AAAI21Papers/AAAI-4849.KimJ.pdf)]
 
 ## Papers on Model Transfer & Meta-Learning
-
 1. **A physics-aware learning architecture with input transfer networks for predictive modeling**, *Amir Behjat, Chen Zeng, Rahul Rai, Ion Matei, David Doermann, Souma Chowdhury*, Applied Soft Computing, 2020. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494620306037)]
 2. **Transfer learning based multi-fidelity physics informed deep neural network**, *Souvik Chakraborty*, Journal of Computational Physics, 2021. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999120307166)]
 3. **Transfer learning enhanced physics informed neural network for phase-field modeling of fracture**, *Somdatta Goswami, Cosmin Anitescu, Souvik Chakraborty, Timon Rabczuk*, Theoretical and Applied Fracture Mechanics, 2020. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S016784421930357X)]
@@ -64,7 +65,7 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 1. **Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks**, *Yihang Gao, Michael K. Ng*, arXiv:2108.13054 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2108.13054.pdf)]
 1. **Flow Field Tomography with Uncertainty Quantification using a Bayesian Physics-Informed Neural Network**, *Joseph P. Molnar, Samuel J. Grauer*, arXiv:2108.09247 [physics], 2021. [[paper](http://arxiv.org/pdf/2108.09247.pdf)]
 2. **Stochastic Physics-Informed Neural Networks (SPINN): A Moment-Matching Framework for Learning Hidden Physics within Stochastic Differential Equations**, *Jared O'Leary, Joel A. Paulson, Ali Mesbah*, arXiv:2109.01621 [cs], 2021. [[paper](http://arxiv.org/pdf/2109.01621.pdf)]
-
+1. **Spectral PINNs: Fast Uncertainty Propagation with Physics-Informed Neural Networks**, *Björn Lütjens, Catherine H. Crawford, Mark Veillette, Dava Newman*, *NIPS*, 2021. [[paper](https://openreview.net/forum?id=218sl_mPChc)]
 
 ## Papers on Applications
 1. **Physics-informed neural networks for high-speed flows**, *Zhiping Mao, Ameya D. Jagtap, George Em Karniadakis*, Computer Methods in Applied Mechanics and Engineering, 2020. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782519306814)]
@@ -89,3 +90,4 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 1. **Understanding and Mitigating Gradient Flow Pathologies in Physics-Informed Neural Networks**, *Sifan Wang, Yujun Teng, Paris Perdikaris*, SIAM Journal on Scientific Computing, 2021. [[paper](https://epubs.siam.org/doi/10.1137/20M1318043)]
 1. **Variational Physics Informed Neural Networks: the role of quadratures and test functions**, *Stefano Berrone, Claudio Canuto, Moreno Pintore*, arXiv:2109.02035 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2109.02035.pdf)]
 1. **Convergence Analysis for the PINNs**, *Yuling Jiao, Yanming Lai, Dingwei Li, Xiliang Lu, Yang Wang, Jerry Zhijian Yang*, arXiv:2109.01780 [cs, math], 2021. [[paper](http://arxiv.org/pdf/2109.01780.pdf)]
+1. **Characterizing possible failure modes in physics-informed neural networks**, *Aditi Krishnapriyan, Amir Gholami, Sh Zhe, ian, Robert Kirby, Michael W. Mahoney*, *NIPS*, 2021. [[paper](https://openreview.net/forum?id=a2Gr9gNFD-J)]
