@@ -90,6 +90,8 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 9. **Investigating a New Approach to Quasinormal Modes: Physics-Informed Neural Networks**, *Anele M. Ncube, Gerhard E. Harmsen, Alan S. Cornell*, arXiv:2108.05867 [gr-qc], 2021. [[paper](http://arxiv.org/pdf/2108.05867.pdf)]
 10. **Towards neural Earth system modelling by integrating artificial intelligence in Earth system science**, *Christopher Irrgang, Niklas Boers, Maike Sonnewald, Elizabeth A. Barnes, Christopher Kadow, Joanna Staneva, Jan Saynisch-Wagner*, Nature Machine Intelligence, 2021. [[paper](https://www.nature.com/articles/s42256-021-00374-3)]
 11. **Physics-informed Neural Network for Nonlinear Dynamics in Fiber Optics**, *Xiaotian Jiang, Danshi Wang, Qirui Fan, Min Zhang, Chao Lu, Alan Pak Tao Lau*, arXiv:2109.00526 [physics], 2021. [[paper](http://arxiv.org/pdf/2109.00526.pdf)]
+12. **On Theory-training Neural Networks to Infer the Solution of Highly Coupled Differential Equations**, *M. Torabi Rad, A. Viardin, M. Apel*, arXiv:2102.04890 [physics], 2021. [[paper](http://arxiv.org/pdf/2102.04890.pdf)]
+13. **Theory-training deep neural networks for an alloy solidification benchmark problem**, *M. Torabi Rad, A. Viardin, G. J. Schmitz, M. Apel*, arXiv:1912.09800 [physics], 2019. [[paper](http://arxiv.org/pdf/1912.09800.pdf)]
 
 ## Papers on PINN Analysis
 1. **Estimates on the generalization error of physics-informed neural networks for approximating a class of inverse problems for PDEs**, *Siddhartha Mishra, Roberto Molinaro*, IMA Journal of Numerical Analysis, 2021. [[paper](https://academic.oup.com/imajna/advance-article-abstract/doi/10.1093/imanum/drab032/6297946)]
