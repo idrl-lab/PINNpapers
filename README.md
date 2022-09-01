@@ -112,6 +112,7 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 2. **A generalized framework for unsupervised learning and data recovery in computational fluid dynamics using discretized loss functions**,  *Jot Singh Aulakh, Steven B. Beale,  and Jon G. Pharoah*,  Physics of Fluids, 2022. [[paper](https://doi.org/10.1063/5.0097480)]
 3. **Physics-Informed Neural Networks for AC Optimal Power Flow**, *Rahul Nellikkath, Spyros Chatzivasileiadis*,  Electric Power Systems Research, 2022. [[paper](https://doi.org/10.1016/j.epsr.2022.108412)]
 4. **Physics-informed neural networks for the shallow-water equations on the sphere**, *Alex Bihlo, Roman O.Popovych*,  Journal of Computational Physics, 2022. [[paper](https://doi.org/10.1016/j.jcp.2022.111024)]
+5. **A Physics-Informed Machine Learning Approach for Estimating Lithium-Ion Battery Temperature**, *Gyouho Cho, Mengqi Wang, Youngki Kim, Jaerock Kwon, Wencong Su*, IEEE Access, 2022. [[paper](https://ieeexplore.ieee.org/document/9858911/)]
 
 ## Papers on PINN Analysis
 1. **Estimates on the generalization error of physics-informed neural networks for approximating a class of inverse problems for PDEs**, *Siddhartha Mishra, Roberto Molinaro*, IMA Journal of Numerical Analysis, 2021. [[paper](https://academic.oup.com/imajna/advance-article-abstract/doi/10.1093/imanum/drab032/6297946)]
