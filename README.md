@@ -60,7 +60,7 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 5. **Scaling physics-informed neural networks to large domains by using domain decomposition**, *Ben Moseley, Andrew Markham, Tarje Nissen-Meyer*, *NIPS*, 2021. [[paper](https://openreview.net/forum?id=o1WiAZiw_CE)]
 6. **Finite Basis Physics-Informed Neural Networks (FBPINNs): a scalable domain decomposition approach for solving differential equations**, *Ben Moseley, Andrew Markham, Tarje Nissen-Meyer*, arXiv:2107.07871 [physics], 2021. [[paper](http://arxiv.org/pdf/2107.07871.pdf)]
 1. **Improved Deep Neural Networks with Domain Decomposition in Solving Partial Differential Equations**, *Wei Wu, Xinlong Feng, Hui Xu*, Journal of Scientific Computing, 2022. [[paper](https://doi.org/10.1007/s10915-022-01980-y)]
-1. **INN: Interfaced neural networks as an accessible meshless approach for solving interface PDE problems**, *Sidi Wu, Benzhuo Lu*, Journal of Computational Physics, 2022. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999122006507)]
+1. **INN: Interfaced neural networks as an accessible meshless approach for solving interface PDE problems**, *Sidi Wu, Benzhuo Lu*, Journal of Computational Physics, 2022. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999122006507)][[code](https://github.com/bzlu-Group/INN)]
 
 ## Papers on PINN Accerleration
 1. **Self-adaptive loss balanced Physics-informed neural networks for the incompressible Navier-Stokes equations**, *Zixue Xiang, Wei Peng, Xiaohu Zheng, Xiaoyu Zhao, Wen Yao*, arXiv:2104.06217 [physics], 2021. [[paper](https://arxiv.org/pdf/2104.06217)]
