@@ -51,6 +51,8 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 2. **Physics-informed graph neural Galerkin networks: A unified framework for solving PDE-governed forward and inverse problems**, *HanGao, Matthew J.Zahr, Jian-XunWang*, Computer Methods in Applied Mechanics and Engineering, 2022. [[paper](https://doi.org/10.1016/j.cma.2021.114502)]
 3. **PhyGNNet: Solving spatiotemporal PDEs with Physics-informed Graph Neural Network**, *Longxiang Jiang, Liyuan Wang, Xinkun Chu, Yonghao Xiao and Hao Zhang*, arXiv:2208.04319 [cs.NE], 2022. [[paper](https://arxiv.org/abs/2208.04319)]
 4. **ModalPINN : an extension of Physics-Informed Neural Networks with enforced truncated Fourier decomposition for periodic flow reconstruction using a limited number of imperfect sensors**, * Ga´etan Raynaud , S´ebastien Houde, Fr´ed´erick P Gosselin*, Journal of Computational Physics, 2022. [[paper](https://doi.org/10.1016/j.jcp.2022.111271)]
+1. **∆-PINNs: physics-informed neural networks on complex geometries**, *Francisco Sahli Costabal, Simone Pezzuto, Paris Perdikaris*, **Arxiv**, 2022. [[paper](http://arxiv.org/pdf/2209.03984.pdf)]
+
 
 ## Papers on Parallel PINN
 1. **Parallel Physics-Informed Neural Networks via Domain Decomposition**, *Khemraj Shukla, Ameya D. Jagtap, George Em Karniadakis*, arXiv:2104.10013 [cs], 2021. [[paper](https://arxiv.org/pdf/2104.10013)]
@@ -118,6 +120,7 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 5. **A Physics-Informed Machine Learning Approach for Estimating Lithium-Ion Battery Temperature**, *Gyouho Cho, Mengqi Wang, Youngki Kim, Jaerock Kwon, Wencong Su*, IEEE Access, 2022. [[paper](https://ieeexplore.ieee.org/document/9858911/)]
 1. **Physically guided deep learning solver for time-dependent Fokker–Planck equation**, *Yang Zhang, Ka-Veng Yuen*, International Journal of Non-Linear Mechanics, 2022. [[paper](https://www.sciencedirect.com/science/article/pii/S0020746222001792)]
 1. **A Physically Consistent Framework for Fatigue Life Prediction using Probabilistic Physics-Informed Neural Network**, *Taotao Zhou, Shan Jiang, Te Han, Shun-Peng Zhu, Yinan Cai*, International Journal of Fatigue, 2022. [[paper](https://www.sciencedirect.com/science/article/pii/S0142112322004844)]
+1. **Inverse modeling of nonisothermal multiphase poromechanics using physics-informed neural networks**, *Danial Amini, Ehsan Haghighat, Ruben Juanes*, **Arxiv**, 2022. [[paper](http://arxiv.org/pdf/2209.03276.pdf)][[code](https://github.com/sciann/sciann-applications/tree/master/SciANN-PoroElasticity))]
 
 ## Papers on PINN Analysis
 1. **Estimates on the generalization error of physics-informed neural networks for approximating a class of inverse problems for PDEs**, *Siddhartha Mishra, Roberto Molinaro*, IMA Journal of Numerical Analysis, 2021. [[paper](https://academic.oup.com/imajna/advance-article-abstract/doi/10.1093/imanum/drab032/6297946)]
