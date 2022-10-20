@@ -52,7 +52,7 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 3. **PhyGNNet: Solving spatiotemporal PDEs with Physics-informed Graph Neural Network**, *Longxiang Jiang, Liyuan Wang, Xinkun Chu, Yonghao Xiao and Hao Zhang*, arXiv:2208.04319 [cs.NE], 2022. [[paper](https://arxiv.org/abs/2208.04319)]
 4. **ModalPINN : an extension of Physics-Informed Neural Networks with enforced truncated Fourier decomposition for periodic flow reconstruction using a limited number of imperfect sensors**, * Ga´etan Raynaud , S´ebastien Houde, Fr´ed´erick P Gosselin*, Journal of Computational Physics, 2022. [[paper](https://doi.org/10.1016/j.jcp.2022.111271)]
 1. **∆-PINNs: physics-informed neural networks on complex geometries**, *Francisco Sahli Costabal, Simone Pezzuto, Paris Perdikaris*, **Arxiv**, 2022. [[paper](http://arxiv.org/pdf/2209.03984.pdf)]
-
+1. **Robust Regression with Highly Corrupted Data via Physics Informed Neural Networks**, *Wei Peng, Wen Yao, Weien Zhou, Xiaoya Zhang, Weijie Yao*, **ArXiv**, 2022. [[paper](http://arxiv.org/pdf/2210.10646.pdf)][[code](https://github.com/weipengOO98/robust_pinn)]
 
 ## Papers on Parallel PINN
 1. **Parallel Physics-Informed Neural Networks via Domain Decomposition**, *Khemraj Shukla, Ameya D. Jagtap, George Em Karniadakis*, arXiv:2104.10013 [cs], 2021. [[paper](https://arxiv.org/pdf/2104.10013)]
