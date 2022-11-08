@@ -24,6 +24,8 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 ## Software
 
 
+
+
 1. **DeepXDE: A Deep Learning Library for Solving Differential Equations**, *Lu Lu, Xuhui Meng, Zhiping Mao, George Em Karniadakis*, SIAM Review, 2021. [[paper](https://epubs.siam.org/doi/pdf/10.1137/19M1274067)][[code](https://github.com/lululxvi/deepxde)]
 2. **NVIDIA SimNet™: An AI-Accelerated Multi-Physics Simulation Framework**, *Oliver Hennigh, Susheela Narasimhan, Mohammad Amin Nabian, Akshay Subramaniam, Kaustubh Tangsali, Zhiwei Fang, Max Rietmann, Wonmin Byeon, Sanjay Choudhry*, **ICCS**, 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-77977-1_36)]
 3. **SciANN: A Keras wrapper for scientific computations and physics-informed deep learning using artificial neural networks**, *Ehsan Haghighat, Ruben Juanes*, arXiv preprint arXiv:2005.08803, 2020. [[paper](https://www.sciencedirect.com/science/article/pii/S0045782520307374)][[code](https://github.com/sciann/sciann)]
