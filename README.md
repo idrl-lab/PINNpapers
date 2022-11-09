@@ -83,6 +83,7 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 2. **Transfer learning based multi-fidelity physics informed deep neural network**, *Souvik Chakraborty*, Journal of Computational Physics, 2021. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999120307166)]
 3. **Transfer learning enhanced physics informed neural network for phase-field modeling of fracture**, *Somdatta Goswami, Cosmin Anitescu, Souvik Chakraborty, Timon Rabczuk*, Theoretical and Applied Fracture Mechanics, 2020. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S016784421930357X)]
 4. **Meta-learning PINN loss functions**, *Apostolos F. Psaros, Kenji Kawaguchi, George Em Karniadakis*, arXiv:2107.05544 [cs], 2021. [[paper](https://arxiv.org/pdf/2107.05544.pdf)]
+5. **Meta-PDE: Learning to Solve PDEs Quickly Without a Mesh**, *Tian Qin,Alex Beatson,Deniz Oktay,Nick McGreivy,Ryan P. Adams*, 	arXiv:2211.01604 [cs], 2022. [[paper](https://arxiv.org/pdf/2211.01604.pdf)]
 5. **Physics-Informed Neural Networks (PINNs) for Parameterized PDEs: A Metalearning Approach**, *Michael Penwarden, Sh Zhe, ian, Akil Narayan, Robert M. Kirby*, Arxiv, 2021. [[paper](https://arxiv.org/abs/2110.13361)]
 
 ## Papers on Probabilistic PINNs and Uncertainty Quantification
