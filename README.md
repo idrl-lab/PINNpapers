@@ -75,8 +75,11 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 6. **CAN-PINN: A Fast Physics-Informed Neural Network Based on Coupled-Automatic-Numerical Differentiation Method**, *Pao-Hsiung Chiu, Jian Cheng Wong, Chinchun Ooi, My Ha Dao, Yew-Soon Ong*, Arxiv, 2021. [[paper](https://arxiv.org/abs/2110.15832)]
 7. **A hybrid physics-informed neural network for nonlinear partial differential equation**, *Chunyue Lv, Lei Wang, Chenming Xie*, Arxiv, 2021. [[paper](https://arxiv.org/abs/2112.01696)]
 8. **Multi-Objective Loss Balancing for Physics-Informed Deep Learning**, *Rafael Bischof, Michael Kraus*, Arxiv, 2021. [[paper](http://rgdoi.net/10.13140/RG.2.2.20057.24169)]
-1. **A High-Efficient Hybrid Physics-Informed Neural Networks Based on Convolutional Neural Network**,  *Zhiwei Fang*,  IEEE Transactions on Neural Networks and Learning Systems, 2021. [[paper](https://ieeexplore.ieee.org/document/9403414)]
-2. **RPINNs: Rectified-physics informed neural networks for solving stationary partial differential equations**,  *Pai Peng, Jiangong Pan, Hui Xu, Xinlong Feng*,  Computers & Fluids, 2022. [[paper](https://doi.org/10.1016/j.compfluid.2022.105583)]
+9. **A High-Efficient Hybrid Physics-Informed Neural Networks Based on Convolutional Neural Network**,  *Zhiwei Fang*,  IEEE Transactions on Neural Networks and Learning Systems, 2021. [[paper](https://ieeexplore.ieee.org/document/9403414)]
+10. **RPINNs: Rectified-physics informed neural networks for solving stationary partial differential equations**,  *Pai Peng, Jiangong Pan, Hui Xu, Xinlong Feng*,  Computers & Fluids, 2022. [[paper](https://doi.org/10.1016/j.compfluid.2022.105583)]
+11. **A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks**,  *Chenxi Wu,Min Zhu,Qinyang Tan,Yadhu Kartha,Lu Lu*, arXiv:2207.10289 [cs], 2022. [[paper](https://arxiv.org/pdf/2207.10289.pdf)]
+12. **A Novel Adaptive Causal Sampling Method for Physics-Informed Neural Networks**,  *Jia Guo, Haifeng Wang, Chenping Hou*, 	arXiv:2210.12914 [cs], 2022. [[paper](https://arxiv.org/pdf/2210.12914.pdf)]
+
 
 ## Papers on Model Transfer & Meta-Learning
 1. **A physics-aware learning architecture with input transfer networks for predictive modeling**, *Amir Behjat, Chen Zeng, Rahul Rai, Ion Matei, David Doermann, Souma Chowdhury*, Applied Soft Computing, 2020. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494620306037)]
