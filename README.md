@@ -79,6 +79,8 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 10. **RPINNs: Rectified-physics informed neural networks for solving stationary partial differential equations**,  *Pai Peng, Jiangong Pan, Hui Xu, Xinlong Feng*,  Computers & Fluids, 2022. [[paper](https://doi.org/10.1016/j.compfluid.2022.105583)]
 11. **A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks**,  *Chenxi Wu,Min Zhu,Qinyang Tan,Yadhu Kartha,Lu Lu*, arXiv:2207.10289 [cs], 2022. [[paper](https://arxiv.org/pdf/2207.10289.pdf)]
 12. **A Novel Adaptive Causal Sampling Method for Physics-Informed Neural Networks**,  *Jia Guo, Haifeng Wang, Chenping Hou*, 	arXiv:2210.12914 [cs], 2022. [[paper](https://arxiv.org/pdf/2210.12914.pdf)]
+13. **Accelerated Training of Physics-Informed Neural Networks (PINNs) using Meshless Discretizations**,  *Ramansh Sharma, Varun Shankar*, 	NeurIPS, 2022. [[paper](https://arxiv.org/abs/2205.09332)]
+14. **Is L2 Physics-Informed Loss Always Suitable for Training Physics-Informed Neural Network**,  *Chuwei Wang, Shanda Li, Di He, Liwei Wang*, 	NeurIPS, 2022. [[paper](https://arxiv.org/abs/2206.02016)]
 
 
 ## Papers on Model Transfer & Meta-Learning
